@@ -1,1 +1,68 @@
 
+/**
+ * You can edit, run, and share this code.
+ * play.kotlinlang.org
+ */
+fun main() {
+    
+    var julia = "Julia"
+    var ju : String
+     var milly = "milly"
+    var emie : String
+    
+   
+   
+    
+    println("$julia - oii")
+    
+    println("$milly - oiie")
+    
+    println("$julia - tudo bem?")
+    
+    println("$milly - tudo sim, e cm vc?")
+    
+    println("$julia- vou bem sim ")
+    
+    println("$milly- meninaa vc ficou sabendo da fofoca que teve ?")
+    
+    println("$julia- não,porq?")
+    
+    println("$milly-teve até discussão lá da andressa e a lara , tudo por causa do lucas do 9, acredita?")
+    
+    println("$julia - acredito,a sophia me contou tudo pela metade,conta ai ")
+    
+    println("$milly - tudo isso aconteceu lá na sala do Ailton,foi do Kaue e do João")
+    
+    println("$milly - e foi tudo por causa de que os dois tinham ido na cantina e a tia tinha reservado o ultimo pão de queijo ")
+    
+    println("$julia - kakakakakak")
+    
+    println("$julia - mds não acredito aakaakaka")
+    
+    println("$milly - eu tbm rsrsrs")
+ 
+    println("$julia - aproveitando o momento , e o meu tio que descobriu traição ")
+    
+    println("$milly - qual ? o tio lu ?")
+    
+    println("$julia - ele mesmo kakakakaka ")
+    
+    println("$milly - para julia,tadinho logo ele ")
+    
+    println("$julia - eu fiquei com dó só na hora ,não é culpa minha que ele é rico e ela era interesseira é ?")
+    
+    println("$milly - não né")
+    
+    println("$julia - o papo tá bom , mais eu vou ter q estudar pra prova oral de port, e tomar banho ainda ")
+    
+    println("$milly - aaa é,a sua é hj , se ferrou kakakak")
+    
+    println("$julia - vdd,mais enfim ,c vai terça-feira né?")
+    
+    println("$milly - vou pensar ,")
+    
+    println("$milly - ent tá , vai tomar banho logo , dps vc me chama ,vou assistir netflix amore ")
+    
+    println("$julia - aiai , vc e essa sua série na ntflx né,ent tá vou lá ent")
+    
+    println("$milly - bjs de luz ,dps eu volto")
