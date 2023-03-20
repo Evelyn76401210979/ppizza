@@ -66,3 +66,54 @@ fun main() {
     println("$julia - aiai , vc e essa sua série na ntflx né,ent tá vou lá ent")
     
     println("$milly - bjs de luz ,dps eu volto")
+    fun main() {
+    //Operadores Matemáticos
+    
+    // + -> adição
+    // - -> subtração
+    // / -> divisão
+    // * -> multiplicação
+    // % -> módulo- resto da divisão
+    // 
+    // 
+
+var halls = 7 
+var freegells = 6
+
+    // EXERCÍCIO : Faça uma calculadors que contenha cada um dos operadores matemáticos
+    // com resultados de duas variáveis(conteúdo resultado para +,-,/,*,%),
+    // contendo também uma interface simples e bem bonita :)
+    
+var batata = 7 
+var pizza = 9
+var bigmac = 12
+  
+    
+println(" ______________________________________________________________")
+println("|        ...............𝖒𝖎𝖓𝖍𝖆 𝖈𝖆𝖑𝖈𝖚𝖑𝖆𝖉𝖔𝖗𝖆:  .............       |")    
+println("|                                                              |")   
+println("|    batata + pizza = 6                                        |")       
+println("|                           bigmac - batata = 5                |")
+println("|    batata * bigmac = 84                                      |")
+println("|                           pizza / batata = 1                 |")
+println("|    bigmac % pizza = 3                                        |") 
+println("|______________________________________________________________|")
+ 
+
+println("|soma entre batata e pizza :                                   |")
+println("|resultado: "+(batata + pizza)+"                               |")
+println("~                                                             ~|")
+println("|subtração entre bigmac e batata :                             |")
+println("|")
+
+
+
+
+
+
+    // 
+    // 
+    // 
+    
+    
+}
