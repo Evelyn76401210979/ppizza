@@ -115,5 +115,82 @@ println("|")
     // 
     // 
     
+    fun main() {
     
+ //Operadores Adicionais
+ // 
+ // 
+ // = -> igual a...
+ // != -> diferente de...
+ // ! -> negando valor
+ // > -> maior que...
+ // < -> menor que...
+ // >= -> maior ou igual a...
+ // <= -> menor ou igual a...
+ //          
+ // ++ -> adiciona 1 a um valor
+ // -- -> subtrai 1 de um valor
+ // += -> adiciona um determinado valor a um valor
+ // -= -> subtrai um determinado valor de um valor
+ //
+ /*
+                                                                                                                     
+    
+var claudetty = 50
+var josias = 30
+var berennice = 90
+var bernadetthy = 80
+    
+\*  
+println(claudetty)
+claudetty++
+println(claudetty)
+println(josias)
+println("")
+println(josias)
+josias--
+println(josias)
+println("")
+println(berennice)
+berennice+=10
+println(berennice)
+berennice += claudetty
+println(berennice)
+println("")
+println(bernadetthy)
+bernadetthy-= josias
+println(bernadetthy)
+*/
+    
+// Condições if..else
+ 
+// se...senão
+//
+// estrutura:
+//
+// if(condição){
+// ação
+// }else{
+// ação
+// }
+/*
+var interruptor = false
+
+if}else{
+    println("Luz apagada")
+} 
+*/
+var fome = true
+    
+if(fome){
+    println("Alimente-se!")
+}else{
+    println("Alimentou-se")
+}
+
+}
+
+(interruptor == true){
+    println("Luz acessa")
+
 }
