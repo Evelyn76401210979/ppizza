@@ -33,6 +33,79 @@ fun main() {
     
     println("$milly - tudo isso aconteceu lá na sala do Ailton,foi do Kaue e do João")
     
+    --------------------------------------------------------------------------------------------------------
+    
+    fun main() {
+    var senha = "333a"
+
+if(senha == "azeitona"){
+    println("Bem-Vindo Sr Starck")
+}else{
+    println("Senha incorreta, Tente Novamente")
+
+/*    
+// if..else composto
+//
+// com o if..else composto, somos permitidos, comparar mais de duas condições (o simples
+// e o else),através do 'else if'
+// 
+ 
+var coracoes = 5 
+if (coracoes >= 5){
+     println("Voce está muito saudável! Parabéns")
+}else if (coracoes == 4){
+     println("Voce ta de boa ")
+}else if(coracoes == 3){
+     println("Cuidado a sua saúde, durma melhor")     
+}else if(coracoes == 2){ 
+     println("Vá se tratar,voce não está bem...")
+}else if(coracoes == 1){ 
+     println("Estado crítico!!!!") 
+}else{ 
+     println("Novo reforço do Vasco") 
+
+}
+*/
+
+// 1 - 
+//
+
+// 2 - faça um programa que verifique se o valor de uma variável é
+//maior, igual,ou menor que 0 (positivo ou negativo,ou nenhum dos dois)
+
+var strogonoff = 10
+var lasanha = 11
+if (strogonoff >=9){
+     println("Boa,seu prato ficou delícioso!")
+}else if (strogonoff >= 8){
+     println("Ótimo cozinheiro(a)!")     
+}else if (strogonoff >= 7){    
+     println("Quase lá")     
+}else if (lasanha >=6){
+     println("Bom,dá para melhorar")    
+}else if (lasanha >=5){
+     println("Huum,acho que voce passou ?do ponto não")     
+ 
+ 
+ 
+var strogonoff = 10
+var lasanha = 11
+if (strogonoff >=11){ 
+     println("bom,seu prato ficou apetitoso")  
+}e 
+ 
+ 
+ 
+ 
+ 
+ 
+} 
+
+
+
+
+}     
+    
     println("$milly - e foi tudo por causa de que os dois tinham ido na cantina e a tia tinha reservado o ultimo pão de queijo ")
     
     println("$julia - kakakakakak")
@@ -194,3 +267,74 @@ if(fome){
     println("Luz acessa")
 
 }
+-------------------------------------------------------------
+fun main() {
+    var senha = "333a"
+
+if(senha == "azeitona"){
+    println("Bem-Vindo Sr Starck")
+}else{
+    println("Senha incorreta, Tente Novamente")
+
+/*    
+// if..else composto
+//
+// com o if..else composto, somos permitidos, comparar mais de duas condições (o simples
+// e o else),através do 'else if'
+// 
+ 
+var coracoes = 5 
+if (coracoes >= 5){
+     println("Voce está muito saudável! Parabéns")
+}else if (coracoes == 4){
+     println("Voce ta de boa ")
+}else if(coracoes == 3){
+     println("Cuidado a sua saúde, durma melhor")     
+}else if(coracoes == 2){ 
+     println("Vá se tratar,voce não está bem...")
+}else if(coracoes == 1){ 
+     println("Estado crítico!!!!") 
+}else{ 
+     println("Novo reforço do Vasco") 
+
+}
+*/
+
+// 1 - 
+//
+
+// 2 - faça um programa que verifique se o valor de uma variável é
+//maior, igual,ou menor que 0 (positivo ou negativo,ou nenhum dos dois)
+
+var strogonoff = 10
+var lasanha = 11
+if (strogonoff >=9){
+     println("Boa,seu prato ficou delícioso!")
+}else if (strogonoff >= 8){
+     println("Ótimo cozinheiro(a)!")     
+}else if (strogonoff >= 7){    
+     println("Quase lá")     
+}else if (lasanha >=6){
+     println("Bom,dá para melhorar")    
+}else if (lasanha >=5){
+     println("Huum,acho que voce passou ?do ponto não")     
+ 
+ 
+ 
+var strogonoff = 10
+var lasanha = 11
+if (strogonoff >=11){ 
+     println("bom,seu prato ficou apetitoso")  
+}e 
+ 
+ 
+ 
+ 
+ 
+ 
+} 
+
+
+
+
+}     
